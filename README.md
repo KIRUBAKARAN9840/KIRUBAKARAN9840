@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="AI Vision Banner" width="800"/>
 </p>
 
-# 👋 Hello, I’m **[Your Name]**
+# 👋 Hello, I’m KIRUBA
 **Computer Vision Engineer • Full‑Stack Developer • AI Enthusiast**
 
 ---
