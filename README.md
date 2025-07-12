@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="AI Vision Banner" width="800"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhjMngxcDIycjcyZGFvZDhnYmN3eGtqbHI5NDExYzNxYW95dmxhciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="AI Vision Banner" width="800"/>
 </p>
 
 # 👋 Hello, I’m KIRUBA
