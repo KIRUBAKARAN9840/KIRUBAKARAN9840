@@ -74,7 +74,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kirubakaran-m-53a98b23b/">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kirubakaran-m">LinkedIn</a> • 
   <a href="mailto:kirubakaran95430@gmail.com">Email</a>
 </p>
 
