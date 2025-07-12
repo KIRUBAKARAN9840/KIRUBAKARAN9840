@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhjMngxcDIycjcyZGFvZDhnYmN3eGtqbHI5NDExYzNxYW95dmxhciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="AI Vision Banner" width="800"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1oMDN2YTZ4NTZpNmFxb2U0amVrdzAybzZ0cWJ2bWZwOHEwaGpsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="AI Vision Banner" width="800"/>
 </p>
 
 # 👋 Hello, I’m KIRUBA
